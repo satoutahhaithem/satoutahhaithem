@@ -6,11 +6,11 @@
 
 ## About Me
 
-I am a Computer Science Engineer specializing in computer networks, security, machine learning, and robotics, currently pursuing a Master's degree in Computer Networks at Sorbonne University in Paris. With a strong academic background from the Higher School of Computer Science (ESI SBA) in Algeria, I have developed expertise in network infrastructure, quality of service optimization, and solving complex computational problems.
+I am a Computer Science Engineer specializing in computer networks, security, machine learning, and robotics. I hold a Master’s degree in Computer Networks from Sorbonne University in Paris, building on a strong academic foundation from the Higher School of Computer Science (ESI SBA) in Algeria. My expertise spans network infrastructure, quality of service optimization, and solving complex computational problems.
 
-Currently completing an R&D internship at Renault Ampere focused on multi-agent connectivity and clustering solutions, my professional experience includes work in data center environments, database management, and network topology implementation at major companies like Sonatrach.
+I recently completed an R&D internship at Renault Ampere, where I worked on multi-agent connectivity and clustering solutions. My professional experience also includes contributions in data center environments, database management, and network topology implementation at major companies such as Sonatrach.
 
-My research interests center on optimization problems, particularly using Maximum Satisfiability (Max-SAT) approaches for solving p-center and p-median location problems, with applications in bioinformatics and planning. I am passionate about applying theoretical computer science concepts to real-world challenges through innovative research and engineering solutions.
+My research interests focus on optimization problems, particularly the use of Maximum Satisfiability (Max-SAT) approaches for solving p-center and p-median location problems, with applications in bioinformatics and planning. I am passionate about applying theoretical computer science to real-world challenges, bridging innovation in research with impactful engineering solutions.
 
 ## Table of Contents
 
